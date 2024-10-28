@@ -74,3 +74,16 @@ html,body {
     font-family: Airport;
     background: radial-gradient(#F4A460, #d2691e);
 }
+@media scren and (max-widtg:768px){
+    .container{
+        display: block;
+    }
+    .logo{
+        display:none;
+    }
+    .hello{
+        trnsform: rotate ();
+        font-size: 2rem;
+    padding-top: 30px}
+    
+}
