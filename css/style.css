@@ -81,7 +81,7 @@ html,body {
     .logo{
         display:none;
     }
-    .hello{
+    .header{
         trnsform: rotate ();
         font-size: 2rem;
     padding-top: 30px}
