@@ -74,7 +74,7 @@ html,body {
     font-family: Airport;
     background: radial-gradient(#F4A460, #d2691e);
 }
-@media screen and (max-widtg:1000px){
+@media screen and (max-width:1000px){
     .container{
         display: block;
     }
